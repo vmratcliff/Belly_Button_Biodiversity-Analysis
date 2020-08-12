@@ -15,13 +15,3 @@ The dashboard has three interactive charts that are updated whenever a new sampl
 * A Gauge Chart to plot the weekly washing frequency of the individual.
 
 Additionally, the sample metadata, i.e., an individual's demographic information is also displayed on the dashboard for each key-value pair from the metadata JSON object.
-
-
-
-### About the Data
-
-Hulcr, J. et al.(2012) _A Jungle in There: Bacteria in Belly Buttons are Highly Diverse, but Predictable_. Retrieved from: [http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/](http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/)
-
-- - -
-
-© 2019 Trilogy Education Services
